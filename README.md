@@ -108,7 +108,7 @@ You should see `active (exited)` with no errors.
 ## Importing the EasyEffects Preset
 
 1. Install EasyEffects if you don't already have it (available in most distro repos, e.g. `sudo apt install easyeffects` / `sudo dnf install easyeffects` / `sudo pacman -S easyeffects`).
-2. Download `preset.json` (or whatever the preset file is named in this repo) from the [`presets/`](./presets) folder.
+2. Download [`alc285-configration.json`](./alc285-configration.json) from the root of this repo.
 3. Open EasyEffects, and on the **Output** tab, open the menu (☰) in the top-right corner.
 4. Go to **Presets** → **Import Preset**, and select the downloaded JSON file.
 5. Select the imported preset from the list to load it, and make sure the **Output** effects toggle is switched on.
