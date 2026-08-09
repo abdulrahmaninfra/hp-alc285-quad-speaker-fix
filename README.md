@@ -130,7 +130,3 @@ Then remove the EasyEffects preset from the Presets menu if you no longer want i
 ## Contributing
 
 If this fix works (or doesn't work) on a device not listed above, please open an issue with your model name and the output of `aplay -l`. Pull requests adding tested devices or improved presets are welcome.
-
-## License
-
-MIT (or update to match your preferred license).
