@@ -1,0 +1,1 @@
+# hp-alc285-quad-speaker-fix
